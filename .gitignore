@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode settings
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.log
+
+# Conda / virtual environments
+.conda/
+env/
+venv/
+.venv/
+miniconda3/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+.ipython/
+
+# Matplotlib cache
+.matplotlib/
+
+# OS user files
+.CFUserTextEncoding
+.zsh_history
+.zsh_sessions/
+.lesshst
+
+# Other common folders
+Desktop/
+Downloads/
+Movies/
+Music/
+Pictures/
+Public/
